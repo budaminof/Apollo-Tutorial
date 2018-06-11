@@ -1,3 +1,11 @@
+#### APOLLO and REACT
+
+This is a super basic Apollo and React application following the Apollo docs.
+
+_____________________________________________________
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
